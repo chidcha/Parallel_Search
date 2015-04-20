@@ -1,0 +1,23 @@
+Developed by: 
+	      1. High Performance Computing and Networking Center (HPCNC), 
+              Kasetsart University, Thailand.
+              http://health-tourism.cpe.ku.ac.th/parallel_search/
+              
+	      2. Deparment of Computing, Faculty of Science,
+	      Silpakorn University, Thailand.
+	      
+	      3. Research Group Parallel and Distributed Systems
+	      Department of Mathematics and Computer Science
+              University of Münster, Germany
+
+ParallelSearch is available under multiple licenses.
+The different licenses are subject to terms and condition as provided in the
+files specifying the license.
+
+  The file "LICENSE-gpl.txt" specifies the use of ParallelSearch with the GPL license.
+
+  The file "LICENSE-academic.txt" specifies the use of ParallelSearch with the
+  ParallelSearch Academic License for non-commercial academic use.
+
+If you are interested in other licensing models, including a commercial-license,
+please contact the author at fengcnc@ku.ac.th.

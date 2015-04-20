@@ -1,0 +1,21 @@
+The ParallelSearch Team:
+----------------
+Developed at: 1. High Performance Computing and Networking Center (HPCNC), 
+              Kasetsart University, Thailand.
+              http://health-tourism.cpe.ku.ac.th/parallel_search/
+              
+	      2. Deparment of Computing, Faculty of Science,
+	      Silpakorn University, Thailand.
+	      
+	      3. Research Group Parallel and Distributed Systems
+	      Department of Mathematics and Computer Science
+              University of Münster, Germany
+ 
+ ----------------
+Main contact:
+		Chantana Chantrapornchai <fengcnc@ku.ac.th>
+
+Main developer:
+		1. Chantana Chantrapornchai <fengcnc@ku.ac.th>
+		2. Chidchanok Choksuchat <cchoksuchat@hotmail.com>
+		3. Michael Haidl <m.haidl@uni-muenster.de>
